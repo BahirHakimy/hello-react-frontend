@@ -26,6 +26,8 @@
 
 **Hello React** A small web app create with Ruby on Rails and React js which shows a radom greeting message.
 
+## This is only the frontend, the API is in [this repo](https://github.com/bahirhakimy/hello-rails-backend)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
